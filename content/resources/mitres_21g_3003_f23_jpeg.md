@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-21g-3003-marguerite-de-roberval-a-web-based-approach-to-teaching-a-renaissance-heroine-fall-2023/mitres_21g_3003_f23.jpeg
+file: courses/marguerite-de-roberval-a-web-based-approach-to-teaching-a-renaissance-heroine/mitres_21g_3003_f23.jpeg
 file_size: 2450034
 file_type: image/jpeg
 image_metadata:
