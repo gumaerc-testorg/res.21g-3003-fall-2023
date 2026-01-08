@@ -8,8 +8,8 @@ file_type: image/jpeg
 image_metadata:
   caption: 'Illustration from Richard Cortambert''s *History of Travel*. Caption:
     "Marguerite de Roberval attracts a ship with her signals." (Image has no known
-    copyright restrictions. Source: {{% resource_link "97aebfed-39b2-4363-93d7-79ab0ee25c1a"
-    "The British Library" %}} on Flickr.)'
+    copyright restrictions. Source: [The British Library](https://www.flickr.com/photos/12403504@N02/11161655206)
+    on Flickr.)'
   credit: ''
   image-alt: Illustration of Marguerite de Roberval on the island signaling a ship
     in the distance.
